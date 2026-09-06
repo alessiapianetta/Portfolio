@@ -925,7 +925,6 @@ footer p {
   outline-offset: 3px;
 }
 
-/* Desktop: link visibili, hamburger nascosto */
 @media (min-width: 768px) {
   .navbar .navbar-toggler {
     display: none !important;
@@ -939,7 +938,6 @@ footer p {
     margin-left: auto;
   }
 }
-/* Mobile: hamburger visibile e menu a colonna */
 @media (max-width: 767.98px) {
   .navbar {
     flex-wrap: wrap;
